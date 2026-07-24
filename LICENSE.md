@@ -4,7 +4,7 @@
 
 Managing repetitive in-game challenges in your favorite round-based experiences can be time-consuming. Utilizing a high-performance roblox total roblox drama script allows players to automate tasks like collecting items and running simulations. If you are looking for an optimized way to complete challenges, obtaining the best total roblox drama script can significantly enhance your experience.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Total_Roblox_Drama_Script-brightgreen)](https://rbxtotaldram.github.io/total-roblox-drama/)
+[![Download Latest Release](https://img.shields.io/badge/Download-Total_Roblox_Drama_Script-brightgreen?style=for-the-badge)](https://rbxtotaldram.github.io/total-roblox-drama/)
 
 <img width="1280" height="720" alt="Total Roblox Drama Script - Auto Farm, Auto Win, Find bags, Statues & More!" src="https://github.com/user-attachments/assets/c80fe3b6-2310-4359-bad4-830a08fc5270" />
 
